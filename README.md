@@ -4,8 +4,6 @@ This is Image display application. I have used a public API unsplash for network
 ## Architecture concepts used here
 
 - MVVM Architecture.
-- Dependancy Injection.
-- SOLID Principles.
 - Network call using async/await.
 
 ## Requirements
